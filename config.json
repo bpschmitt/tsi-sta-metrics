@@ -1,0 +1,148 @@
+{
+  "serviceDesks": [
+    {
+      "All Service Desks": [
+        {
+          "TIME_TO_RESOLVE": [
+            {
+              "avg": 83,
+              "stdev": 51
+            }
+          ],
+          "TOTAL_TICKET_TIME": [
+            {
+              "avg": 400,
+              "stdev": 83
+            }
+          ],
+          "ESCALATED_INCIDENTS": [
+            {
+              "avg": 79,
+              "stdev": 54
+            }
+          ],
+          "SLA_BREACHES": [
+            {
+              "avg": 91,
+              "stdev": 77
+            }
+          ],
+          "TICKET_COST": [
+            {
+              "avg": 51000,
+              "stdev": 33400
+            }
+          ],
+          "TOTAL_TRANSFERS": [
+            {
+              "avg": 691,
+              "stdev": 422
+            }
+          ]
+        }
+      ],
+      "Service Desk America": [
+        {
+          "TIME_TO_RESOLVE": [
+            {
+              "avg": 72,
+              "stdev": 50
+            }
+          ],
+          "TOTAL_TICKET_TIME": [
+            {
+              "avg": 390,
+              "stdev": 88
+            }
+          ],
+          "ESCALATED_INCIDENTS": [
+            {
+              "avg": 52,
+              "stdev": 44
+            }
+          ],
+          "SLA_BREACHES": [
+            {
+              "avg": 65,
+              "stdev": 62
+            }
+          ],
+          "TICKET_COST": [
+            {
+              "avg": 40700,
+              "stdev": 28500
+            }
+          ]
+        }
+      ],
+      "Service Desk APAC": [
+        {
+          "TIME_TO_RESOLVE": [
+            {
+              "avg": 118,
+              "stdev": 60
+            }
+          ],
+          "TOTAL_TICKET_TIME": [
+            {
+              "avg": 429,
+              "stdev": 286
+            }
+          ],
+          "ESCALATED_INCIDENTS": [
+            {
+              "avg": 17,
+              "stdev": 14
+            }
+          ],
+          "SLA_BREACHES": [
+            {
+              "avg": 19,
+              "stdev": 18
+            }
+          ],
+          "TICKET_COST": [
+            {
+              "avg": 4700,
+              "stdev": 3375
+            }
+          ]
+        }
+      ],
+      "Service Desk EMEA": [
+        {
+          "TIME_TO_RESOLVE": [
+            {
+              "avg": 167,
+              "stdev": 60
+            }
+          ],
+          "TOTAL_TICKET_TIME": [
+            {
+              "avg": 493,
+              "stdev": 282
+            }
+          ],
+          "ESCALATED_INCIDENTS": [
+            {
+              "avg": 8,
+              "stdev": 6
+            }
+          ],
+          "SLA_BREACHES": [
+            {
+              "avg": 9,
+              "stdev": 7
+            }
+          ],
+          "TICKET_COST": [
+            {
+              "avg": 5400,
+              "stdev": 4020
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
